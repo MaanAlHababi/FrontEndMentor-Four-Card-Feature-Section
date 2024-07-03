@@ -77,16 +77,16 @@ article {
 }
 
 #supervisor {
-    border-top: 3px solid var(--cyan);
+    border-top: 5px solid var(--cyan);
 }
 #team-builder {
-    border-top: 3px solid var(--red);
+    border-top: 5px solid var(--red);
 }
 #karma {
-    border-top: 3px solid var(--orange);
+    border-top: 5px solid var(--orange);
 }
 #calculator {
-    border-top: 3px solid var(--blue);
+    border-top: 5px solid var(--blue);
 }
 
 article h2 {
